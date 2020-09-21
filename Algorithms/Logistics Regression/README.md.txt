@@ -1,1 +1,0 @@
-# This project is about logistics Regression in action.
